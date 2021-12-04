@@ -1,3 +1,5 @@
+
+
 #con1{
     width: 100%;
     background-color: black;
@@ -112,7 +114,7 @@ box-shadow: 3px 3px 25px 3px  rgb(179, 179, 179) ;
    
 }
 #row10h5-1{
-    color: rgb(206, 71, 71);
+    color: #FE5858;
     margin-top: 30px;
     text-align: center;
 }
@@ -136,7 +138,7 @@ margin-top: 80px;
     background-image: url(./images/14.png);
     box-shadow: 3px 3px 20px 3px rgb(148, 144, 144);
 }
-#row10btn1-2{
+#btn-1{
     margin-left: 335px;
     margin-top: 50px;
     border: 2px solid #F7723D;
@@ -144,7 +146,7 @@ margin-top: 80px;
 color: white;
 border-radius: 5px 5px 0px 0px;
 }
-#row10btn2-2{
+#btn-2{
 padding: 0px 5px 0px 5px;
     border-radius: 5px 5px 0px 0px;  
     border: 2px dotted grey; 
@@ -155,7 +157,7 @@ padding: 0px 5px 0px 5px;
     /* margin-top: 100px; */
 
 }
-#border1
+#line1
 {
 border: 1px dotted #000;
     margin-top: 40px;
@@ -185,16 +187,74 @@ border: 1px dotted #000;
     height: 300px;
     box-shadow: 1px 1px 10px 1px rgb(148, 144, 144);
 }
-
-
-#row11p{
-    font-size: 35px;
+#row11{
     margin-top: 200px;
 }
-#border2
+#row11p{
+    font-size: 35px;
+}
+#line2
 {
 border: 1px dotted #000;
     margin-top: 40px;
     margin-left: 0px;
     width: 180px;
+}
+ .row11-12img-1{
+    border: 1px solid white;
+    box-shadow: 1px 1px 10px 1px rgb(148, 144, 144);
+    width: 180px;
+    height: 100px;
+}
+.row11-12img-2{
+    margin-left: 30px;
+    margin-top:-25px ;
+    box-shadow: 1px 1px 10px 1px rgb(148, 144, 144);
+    border: 1px solid white;
+    width: 180px;
+    height: 100px;
+} 
+
+
+#row13{
+    box-shadow: 1px 1px 10px 1px rgb(148, 144, 144);
+    margin-top: 150px;
+    border-radius: 10px;
+    
+}
+#row13empty{
+    border-radius: 10px 0px 0px 10px;
+    background-color: #EE9617;
+    height: 250px;
+}
+#row13p{
+    margin-top: 25px;
+    margin-left: 20px;
+    font-size: 25px;
+}
+#line3{
+    border: 1px dotted #000;
+    margin-top: 40px;
+    margin-left: 5px;
+    width: 180px;
+    margin-bottom: 40px;
+}
+#row13btn{
+margin: 110px 0px 0px 60px;
+ border: 2px solid white;
+border-radius: 20px;
+padding: 2px 15px 2px 15px;
+color: #FA644C;
+background-color: white ;
+box-shadow: 1px 1px 10px 1px rgb(148, 144, 144);
+}
+#row13btn-out{
+    border-radius: 0px 10px 10px 0px;
+    background-color:#E44613;
+    border: 2px solid #E44613;
+    margin-left: 75px;
+    height: 250px;
+}
+#row14{
+margin-top: 30px;
 }
